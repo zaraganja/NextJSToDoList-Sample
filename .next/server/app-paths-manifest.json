@@ -1,0 +1,6 @@
+{
+  "/todo/page": "app/todo/page.js",
+  "/NewTodo/page": "app/NewTodo/page.js",
+  "/about/page": "app/about/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
